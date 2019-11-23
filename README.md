@@ -1,4 +1,10 @@
-# Phaser 3 Webpack Project Template
+# CandleMan Phaser Game
+
+
+andleman is kinds of 80s gameboy 2d pixle game, and it just fun and funky idea about self-destruction, i hope different people could use thier own button or physical equipments to connect to the game and release their tension by keeping push the button to kill the candleman...
+
+
+Basing on Phaser 3 Webpack Project Template:
 
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/)
 that includes hot-reloading for development and production-ready builds.
