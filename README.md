@@ -1,7 +1,7 @@
 # CandleMan Phaser Game
 
 
-andleman is kinds of 80s gameboy 2d pixle game, and it just fun and funky idea about self-destruction, i hope different people could use thier own button or physical equipments to connect to the game and release their tension by keeping push the button to kill the candleman...
+## Candleman is kinds of 80s gameboy 2d pixle game, and it just fun and funky idea about self-destruction, i hope different people could use thier own button or physical equipments to connect to the game and release their tension by keeping push the button to kill the candleman...
 
 
 Basing on Phaser 3 Webpack Project Template:
